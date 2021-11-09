@@ -1,0 +1,4 @@
+/home/jessy/test/test_serial/build/CMakeFiles/rebuild_cache.dir
+/home/jessy/test/test_serial/build/CMakeFiles/edit_cache.dir
+/home/jessy/test/test_serial/build/CMakeFiles/device_lib.dir
+/home/jessy/test/test_serial/build/CMakeFiles/test_serial_port.dir
